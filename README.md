@@ -55,7 +55,7 @@ I'm a Computer Science graduate passionate about building and deploying end-to-e
 
 ---
 
-## 🌱 Currently
+##  Currently
 - Advancing in AI & Machine Learning
 - Looking for entry-level AI/ML opportunities in **Qatar**
 - Open to collaboration and real-world projects
