@@ -53,6 +53,12 @@ I'm a Computer Science graduate passionate about building and deploying end-to-e
 - CNN model for fruit & vegetable image classification
 - Built with TensorFlow, Keras, Python
 
+### ⚽ [UCL Match Predictor](https://github.com/vksox1404-web/ucl-predictor)
+- Predicts UEFA Champions League match outcomes using live data from the football-data.org API
+- Random Forest classifier trained on 31,735 European league matches
+- Live predictions for Match Result, Over/Under 2.5 Goals, and Both Teams to Score (BTTS)
+- Built with Python, Scikit-learn, Streamlit
+
 ---
 
 ##  Currently
